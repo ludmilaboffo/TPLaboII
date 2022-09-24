@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1663915677 source:c:\users\karina\desktop\tp-canciones-parcial\main.cpp
+	<iostream>
+	<cstring>
+	"claseFecha.h"
+	"clase_canciones.h"
+
+1662485907 c:\users\karina\desktop\tp-canciones-parcial\clasefecha.h
+	"funcionesGlobales.h"
+	<iostream>
+
+1663914453 c:\users\karina\desktop\tp-canciones-parcial\funcionesglobales.h
+	<iostream>
+	<cstring>
+
+1663916000 c:\users\karina\desktop\tp-canciones-parcial\clase_canciones.h
+	<iostream>
+	<cstring>
+	"funcionesGlobales.h"
+	"claseFecha.h"
+
